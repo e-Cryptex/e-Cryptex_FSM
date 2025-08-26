@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_e_Cryptex_FSM_behav/xsimk.exe -simmode gui -wdb tb_e_Cryptex_FSM_behav.wdb -simrunnum 0 -socket 3835
+Design successfully loaded
+Design Loading Memory Usage: 26596 KB (Peak: 26596 KB)
+Design Loading CPU Usage: 780 ms
+Simulation completed
+Simulation Memory Usage: 27544 KB (Peak: 27544 KB)
+Simulation CPU Usage: 874 ms

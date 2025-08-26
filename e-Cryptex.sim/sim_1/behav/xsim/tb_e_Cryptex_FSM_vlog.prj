@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../e-Cryptex.ip_user_files/ipstatic" \
+"../../../../e-Cryptex.srcs/sources_1/new/calibration.v" \
+"../../../../e-Cryptex.srcs/sim_1/new/tb_e-Cryptex_FSM.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
